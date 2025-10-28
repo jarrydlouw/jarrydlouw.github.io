@@ -27,14 +27,14 @@ author:
   name             : "Jarryd Louw"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
-  email            : "none@example.org" 
+  email            : "louwjarryd@gmail.com" 
 
   # Academic websites
-  ResearchGate     : # URL
-  PhilPeople       : # URL
-  Academia.edu     : # URL
+  ResearchGate     : "https://www.researchgate.net/profile/Jarryd-Louw"
+  PhilPeople       : "https://philpeople.org/profiles/jarryd-louw"
+  Academia.edu     : "https://anu-au.academia.edu/JarrydLouw"
   googlescholar    : # URL
-  Orcid            : # URL
+  Orcid            : "https://orcid.org/0000-0002-5339-642X"
   
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
