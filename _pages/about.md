@@ -1,5 +1,38 @@
 ---
 permalink: /
+title: "Introduction and Research Interests"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
+
+Education
+------
+
+
+Publications
+------
+**Journal Papers**
+
+
+**Theses**
+
+
+Awards and Scholarships
+------
+ 
+
+Teaching Experience
+------
+
+
+
+
+[This is a comment that will not be rendered.]: ---
+permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
