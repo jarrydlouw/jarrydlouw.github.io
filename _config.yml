@@ -30,11 +30,11 @@ author:
   email            : "louwjarryd@gmail.com" 
 
   # Academic websites
-  ResearchGate     : "https://www.researchgate.net/profile/Jarryd-Louw"
-  PhilPeople       : "https://philpeople.org/profiles/jarryd-louw"
-  Academia.edi     : "https://anu-au.academia.edu/JarrydLouw"
+  researchgate     : "https://www.researchgate.net/profile/Jarryd-Louw"
+  philpeople       : "https://philpeople.org/profiles/jarryd-louw"
+  academia.edu     : "https://anu-au.academia.edu/JarrydLouw"
   googlescholar    : # URL
-  Orcid            : "https://orcid.org/0000-0002-5339-642X"
+  orcid            : "https://orcid.org/0000-0002-5339-642X"
   
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
