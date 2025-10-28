@@ -327,18 +327,18 @@ compress_html:
 #Miscelanous Changes (original code found below)#
 
 #Basic site settings#
-# locale: "en-US" (changed to UK English)
-# title: "Your Name / Site Title" (added name)
-# name: &name "Your Name" (added name)
-# description: &description "Your Name's academic portfolio" (added name)
-# url: https://academicpages.github.io (added GitHub profile name)
-# repository: "academicpages/academicpages.github.io" (added Github profile name)
+# locale            : "en-US" (changed to UK English)
+# title             : "Your Name / Site Title" (added name)
+# name              : &name "Your Name" (added name)
+# description       : &description "Your Name's academic portfolio" (added name)
+# url: https        ://academicpages.github.io (added GitHub profile name)
+# repository        : "academicpages/academicpages.github.io" (added Github profile name)
 
 #Biographic information#
-# name: "Your Sidebar Name" (added name)
-# location: "Earth" (removed from section)
-# employer: "Red Brick University" (removed from section)
-# uri: # URL (removed from section)
+# name              : "Your Sidebar Name" (added name)
+# location          : "Earth" (removed from section)
+# employer          : "Red Brick University" (removed from section)
+# uri               : # URL (removed from section)
 
  #Academic websites#
  # researchgate     : # URL (capitalized R and G)
