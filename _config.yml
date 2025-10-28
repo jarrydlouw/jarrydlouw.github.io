@@ -23,7 +23,7 @@ repository               : "jarrydlouw/jarrydlouw.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Klee 3.jpg"
   name             : "Jarryd Louw"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
@@ -339,6 +339,8 @@ compress_html:
 # location          : "Earth" (removed from section)
 # employer          : "Red Brick University" (removed from section)
 # uri               : # URL (removed from section)
+# avatar            : "profile.png" (changed profile picture) 
+
 
  #Academic websites#
  # researchgate     : # URL (capitalized R and G)
