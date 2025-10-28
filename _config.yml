@@ -7,16 +7,16 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-UK"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Jarryd Louw"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+name                     : &name "Jarryd Louw"
+description              : &description "personal description"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : https://jarrydlouw.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "jarrydlouw/jarrydlouw.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,26 +24,18 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Jarryd Louw"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
   email            : "none@example.org" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-
+  ResearchGate     : # URL
+  PhilPeople       : # URL
+  Academia.edu     : # URL
+  googlescholar    : # URL
+  Orcid            : # URL
+  
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
@@ -52,34 +44,7 @@ author:
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
-  # Social media
-  artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
-
-# Publication Category - The following the list of publication categories and their headings
+  # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
     title: 'Books'
@@ -356,3 +321,60 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+
+#Miscelanous Changes (original code found below)#
+
+#Basic site settings#
+# locale: "en-US" (changed to UK English)
+# title: "Your Name / Site Title" (added name)
+# name: &name "Your Name" (added name)
+# description: &description "Your Name's academic portfolio" (added name)
+# url: https://academicpages.github.io (added GitHub profile name)
+# repository: "academicpages/academicpages.github.io" (added Github profile name)
+
+#Biographic information#
+# name: "Your Sidebar Name" (added name)
+# location: "Earth" (removed from section)
+# employer: "Red Brick University" (removed from section)
+# uri: # URL (removed from section)
+
+ #Academic websites#
+ # researchgate     : # URL (capitalized R and G)
+ # academia         : # URL (capitalized A and added .edu)
+ # arxiv            : # URL (removed from section)
+ # inspire-hep      : # URL (removed from section)
+ # impactstory      : # URL (removed from section)
+ # orcid            : # URL (capitalized O)
+ # semantic         : # URL (removed from section)
+ # pubmed           : # URL (removed from section)
+ # scopus           : # URL (removed from section)
+
+ #Social media#
+  #artstation       : # Username (removed from section)
+  #bluesky          : # Username (removed from section)
+  #facebook         : # Username (removed from section)
+  #flickr           : # Username (removed from section)
+  #foursquare       : # Username (removed from section)
+  #goodreads        : # Username (removed from section)
+  #google_plus      : # Username (removed from section)
+  #keybase          : # Username (removed from section)
+  #instagram        : # Username (removed from section)
+  #lastfm           : # Username (removed from section)
+  #linkedin         : # Username (removed from section)
+  #mastodon         : # URL (removed from section)
+  #medium           : # URL (removed from section)
+  #pinterest        : # Username (removed from section)
+  #soundcloud       : # Username (removed from section)
+  #steam            : # Username (removed from section)
+  #telegram         : # URL (removed from section)
+  #tumblr           : # Username (removed from section)
+  #twitter          : # Username for X / Twitter (removed from section)
+  #vine             : # Username (removed from section)
+  #weibo            : # Username (removed from section)
+  #wikipedia        : # Username (removed from section)
+  #xing             : # Username (removed from section)
+  #youtube          : # Username (removed from section)
+  #zhihu            : # Username (removed from section)
+ 
