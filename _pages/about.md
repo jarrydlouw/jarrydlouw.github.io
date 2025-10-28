@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
 I am currently a PhD graduand in Political Science, with a focus on Political Theory. I have relatively wide academic research interests, particularly in the following areas:
 
 - Political Science: Political Theory, International Relations Theory, Political Ideologies, Non-Democratic Politics, Politics and Religion, Political Economy, Strategic Studies, & Security Studies.
