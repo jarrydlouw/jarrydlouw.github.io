@@ -18,23 +18,58 @@ I am currently a PhD graduand in Political Science, with a focus on Political Th
 
 Education
 ------
+**Ph.D.** Political Science: Political Theory (February 2022 – September 2025) <br>
+**The Australian National University**
+
+**M.Pols. (Distinction)** Political Science: Political Theory	(March 2020 – May 2021) <br>
+**Victoria University of Wellington**
+
+**B.A.** (Majors) Philosophy, Political Science, Sociology, (Minor) International Relations (March 2017 – December 2019) <br>
+**Victoria University of Wellington**
 
 
 Publications
 ------
 **Journal Papers**
 
+Louw, J. Political religion at the level of specific theoretical concepts: a theoretical case study of Stalin’s intensification of class struggle under socialism. Stud East Eur Thought 75, 53–70 (2023). [https://doi.org/10.1007/s11212-021-09452-z]
 
 **Theses**
 
+Analytical Marxism, Political Power, and the Strategic Question of Socialist Reform in the Early 21st Century (Ph.D. Thesis, Political Science) [Link](https://hdl.handle.net/1885/733767322)
+
+Between Max Weber and Gilles Deleuze: Leadership Democracy within a Society of Control (M.Pols. Thesis, Political Science) [Link](https://openaccess.wgtn.ac.nz/articles/thesis/Between_Max_Weber_and_Gilles_Deleuze_Leadership_Democracy_within_a_Society_of_Control/17080718?file=31578899)
 
 Awards and Scholarships
 ------
+Australian Government Research Training Program Fee Offset Scholarship, 3.5 years, (February 2022 – August 2025) <br>
+The Australian National University 
+
+Australian Government Research Training Program Stipend Scholarship, 3.5 years, (February 2022 – August 2025) <br> 
+The Australian National University
  
 
 Teaching Experience
 ------
+**As a Graduate Teching Assistant and Marking Assistant**
 
+POLS114 Introduction to Comparative Politics (Head Tutor) (Trimester 2 2025)<br>
+INTP113 Introduction to International Relations (Head Tutor) (Trimester 1 2025)<br>
+INTP247 International Relations: Wealth and World Affairs (Trimester 1 2025)<br>
+POLS209 Dictatorship and Revolutions (Head Tutor) (Trimester 2 2024)<br>
+POLS114 Introduction to Comparative Politics (Head Tutor) (Trimester 1 2024)<br>
+INTP247 International Relations: Wealth and World Affairs (Head Tutor) (Trimester 2 2023)<br>
+POLS231 Governing Dividing Societies (Trimester 1 2023)<br>
+INTP247 International Relations: Wealth and World Affairs (Trimester 2 2021)<br>
+POLS212 Special Topic: Ideas that Shape the World (Trimester 1 2021)<br>
+INTP212 Special Topic: Power, Influence, and International Security (Trimester 2 2020)<br>
+POLS209 Dictatorships and Revolutions (Trimester 1 2020)<br>
+
+*Marking Assistance*<br>
+POLS213 Special Topic: Political Representation (Trimester 3 2024)<br>
+POLS354 Politics of the Pacific Islands (Trimester 1 2024)<br>
+INTP261 Political Philosophy and International Relations (Trimester 3 2023)<br>
+INTP365 Special Topic: The Politics of Forced Migration (marked mid-semester essays) (Trimester 2 2023)<br>
 
 
 <!--The following is the original front page text.
