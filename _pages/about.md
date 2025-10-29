@@ -32,7 +32,7 @@ Publications
 ------
 **Journal Papers**
 
-Louw, J. Political religion at the level of specific theoretical concepts: a theoretical case study of Stalin’s intensification of class struggle under socialism. Stud East Eur Thought 75, 53–70 (2023). [https://doi.org/10.1007/s11212-021-09452-z]
+Louw, J. Political religion at the level of specific theoretical concepts: a theoretical case study of Stalin’s intensification of class struggle under socialism. Stud East Eur Thought 75, 53–70 (2023). [https://doi.org/10.1007/s11212-021-09452-z](https://doi.org/10.1007/s11212-021-09452-z)
 
 **Theses**
 
