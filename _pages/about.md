@@ -51,7 +51,7 @@ The Australian National University
 
 Teaching Experience
 ------
-*Graduate Teaching Assistant*<br>
+*Graduate Teaching Assistant (Victoria University of Wellington)*<br>
 POLS114 Introduction to Comparative Politics (Head Tutor) (Trimester 2 2025)<br>
 INTP113 Introduction to International Relations (Head Tutor) (Trimester 1 2025)<br>
 INTP247 International Relations: Wealth and World Affairs (Trimester 1 2025)<br>
@@ -64,7 +64,7 @@ POLS212 Special Topic: Ideas that Shape the World (Trimester 1 2021)<br>
 INTP212 Special Topic: Power, Influence, and International Security (Trimester 2 2020)<br>
 POLS209 Dictatorships and Revolutions (Trimester 1 2020)<br>
 
-*Marking Assistant*<br>
+*Marking Assistant (Victoria University of Wellington)*<br>
 POLS213 Special Topic: Political Representation (Trimester 3 2024)<br>
 POLS354 Politics of the Pacific Islands (Trimester 1 2024)<br>
 INTP261 Political Philosophy and International Relations (Trimester 3 2023)<br>
