@@ -52,6 +52,8 @@ The Australian National University
 Teaching Experience
 ------
 *Graduate Teaching Assistant (Victoria University of Wellington)*<br>
+INTP113 Introduction to International Relations (Head Tutor) (Trimester 1 2026)<br>
+INTP245 Foreign Policy Analysis (Trimester 1 2026)<br>
 POLS114 Introduction to Comparative Politics (Head Tutor) (Trimester 2 2025)<br>
 INTP113 Introduction to International Relations (Head Tutor) (Trimester 1 2025)<br>
 INTP247 International Relations: Wealth and World Affairs (Trimester 1 2025)<br>
