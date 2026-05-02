@@ -11,9 +11,9 @@ I have a PhD in Political Science from The Australian National University, with 
 
 - Political Science: Political Theory, International Relations Theory, Political Ideologies, Non-Democratic Politics, Politics and Religion, Political Economy, Strategic Studies, & Security Studies.
 
-- Philosophy: Social and Political Philosophy, Ethics, and Philosophy of Social Science.
+- Philosophy: Social and Political Philosophy, Ethics, & Philosophy of Social Science.
 
-- Sociology: Social Theory, Sociological Theory, Political Sociology.
+- Sociology: Social Theory, Sociological Theory, Political Sociology, Economic Sociology, & Historical Sociology.
 
 
 Education
