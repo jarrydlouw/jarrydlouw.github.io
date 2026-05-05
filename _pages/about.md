@@ -32,6 +32,8 @@ Publications
 ------
 **Journal Papers**
 
+Louw, J. (2026) ‘Heideggerian Marxism, Dasein, and Revolution’, Critique, 54(1), pp. 111–132. [https://doi.org/10.1080/03017605.2026.2627038](https://doi.org/10.1080/03017605.2026.2627038)
+
 Louw, J. Political religion at the level of specific theoretical concepts: a theoretical case study of Stalin’s intensification of class struggle under socialism. Stud East Eur Thought 75, 53–70 (2023). [https://doi.org/10.1007/s11212-021-09452-z](https://doi.org/10.1007/s11212-021-09452-z)
 
 **Theses**
