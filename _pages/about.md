@@ -9,16 +9,16 @@ redirect_from:
 
 I have a PhD in Political Science from The Australian National University, with a general focus on Political Theory. I have relatively wide academic research interests, particularly in the following areas:
 
-- Political Science: Political Theory, International Relations Theory, Political Ideologies, Non-Democratic Politics, Politics and Religion, Political Economy, Strategic Studies, & Security Studies.
+- Political Science: Political Theory, International Relations Theory, Political Ideologies, Non-Democratic Politics, Politics and Religion, Political Economy (incl. IPE), Environmental Politics, Strategic Studies & Security Studies.
 
-- Philosophy: Social and Political Philosophy, Ethics, & Philosophy of Social Science.
+- Philosophy: Social and Political Philosophy, Ethics, Philosophy of Social Science, & Environmental Philosophy.
 
 - Sociology: Social Theory, Sociological Theory, Political Sociology, Economic Sociology, & Historical Sociology.
 
 
 Education
 ------
-**Ph.D.** Political Science: Political Theory (February 2022 – September 2025) <br>
+**Ph.D.** Political Science: Political Theory (February 2022 – December 2025) <br>
 **The Australian National University**
 
 **M.Pols. (Distinction)** Political Science: Political Theory	(March 2020 – May 2021) <br>
@@ -53,6 +53,9 @@ The Australian National University
 
 Teaching Experience
 ------
+*Teaching Fellow (Victoria University of Wellington)*<br>
+POLS114 Introduction to Comparative Politics (Trimester 2 2026)<br>
+
 *Graduate Teaching Assistant (Victoria University of Wellington)*<br>
 INTP113 Introduction to International Relations (Head Tutor) (Trimester 1 2026)<br>
 INTP245 Foreign Policy Analysis (Trimester 1 2026)<br>
