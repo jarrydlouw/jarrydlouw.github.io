@@ -24,6 +24,9 @@ Education
 **M.Pols. (Distinction)** Political Science: Political Theory	(March 2020 – May 2021) <br>
 **Victoria University of Wellington**
 
+**B.Sc.** (Majors) Mathematics and Statistics (February 2027 – November 2028) <br>
+**Victoria University of Wellington**
+
 **B.A.** (Majors) Philosophy, Political Science, Sociology, (Minor) International Relations (March 2017 – December 2019) <br>
 **Victoria University of Wellington**
 
@@ -72,6 +75,7 @@ INTP212 Special Topic: Power, Influence, and International Security (Trimester 2
 POLS209 Dictatorships and Revolutions (Trimester 1 2020)<br>
 
 *Marking Assistant (Victoria University of Wellington)*<br>
+POLS214/390 Ideas That Shape the World (Trimester 3 2026)<br>
 POLS213 Special Topic: Political Representation (Trimester 3 2024)<br>
 POLS354 Politics of the Pacific Islands (Trimester 1 2024)<br>
 INTP261 Political Philosophy and International Relations (Trimester 3 2023)<br>
